@@ -11,7 +11,7 @@ Once you cloned or download this repo, You need to create or update this User va
     
 Once Once MAYA_MODULE_PATH is set, run maya and go to ```Windows -> Setting/Preferences -> Plug-in Manager``` to load the plugins.
 
-![](docs/images/plugins.png) 
+![](docs/images/plugins.PNG) 
 
 
     
