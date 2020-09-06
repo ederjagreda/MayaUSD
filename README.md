@@ -5,6 +5,10 @@ This version is intended to work only whith maya 2019
 
 Before downloading this repo, you need to first download USD-CORE from https://github.com/ederjagreda/USD_20.08.
 
+It is  ideal  that both repos  are in the same path.Otherwise you have to  edit in   this repo: ../MayaUSD/mayaUsd.mod first line to to path where you have USD core.
+
+![](docs/images/toEdit.PNG) 
+
 Once you cloned or download this repo, You need to create or update this User variable:
 
 * MAYA_MODULE_PATH : 
